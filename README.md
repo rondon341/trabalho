@@ -1,4 +1,4 @@
- trabalho
+
  Desafio Lógica Super Trunfo
 
 Projeto desenvolvido para o desafio da disciplina de Introdução à Programação de Computadores.
